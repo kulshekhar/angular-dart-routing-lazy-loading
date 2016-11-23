@@ -1,0 +1,1 @@
+A simple example of combining lazy loading with routing in Angular2 Dart. Inspired by [this article](https://medium.com/@matanlurey/lazy-loading-with-angular-dart-14f58004f988#.6wa8jsrmj) and [this sample repository](https://github.com/matanlurey/angular2_lazy_example)

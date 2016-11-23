@@ -1,0 +1,5 @@
+<button (click)="loadC2()">Load C2</button>
+<a [routerLink]="['Home']">Home</a> - <a [routerLink]="['C1']">C1</a> -
+<a *ngIf="lazyLoaded" [routerLink]="['C2']">C2</a>
+
+<router-outlet></router-outlet>
